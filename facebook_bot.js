@@ -208,12 +208,12 @@ controller.hears(['menu'], 'message_received', function(bot, message) {
                             'buttons': [
                                 {
                                     'type': 'web_url',
-                                    'url': 'http://globalassets.starbucks.com/assets/a8de3ec0005a4d21b9282c0527160100.jpg',
+                                    'url': 'http://www.starbucks.in/coffee/medium/india-estates-blend/whole-bean',
                                     'title': 'View Coffee'
                                 },
                                 {
                                     'type': 'web_url',
-                                    'url': 'http://globalassets.starbucks.com/assets/a8de3ec0005a4d21b9282c0527160100.jpg',
+                                    'url': 'http://www.starbucks.in/coffee/medium/india-estates-blend/whole-bean',
                                     'title': 'Buy Coffee'
                                 },
                                 {
@@ -230,12 +230,12 @@ controller.hears(['menu'], 'message_received', function(bot, message) {
                             'buttons': [
                                 {
                                     'type': 'web_url',
-                                    'url': 'http://globalassets.starbucks.com/assets/7a6c6ffc62ee4e17a992cee3898918ba.png',
+                                    'url': 'http://www.starbucks.in/coffee/medium/kenya/whole-bean',
                                     'title': 'View Coffee'
                                 },
                                 {
                                     'type': 'web_url',
-                                    'url': 'http://globalassets.starbucks.com/assets/7a6c6ffc62ee4e17a992cee3898918ba.png',
+                                    'url': 'http://www.starbucks.in/coffee/medium/kenya/whole-bean',
                                     'title': 'Order Coffee'
                                 },
                                 {
@@ -247,17 +247,17 @@ controller.hears(['menu'], 'message_received', function(bot, message) {
                         },
                         {
                             'title': 'Fair Trade Certified™ Italian Roast',
-                            'image_url': 'http://globalassets.starbucks.com/assets/7a6c6ffc62ee4e17a992cee3898918ba.png',
+                            'image_url': 'http://globalassets.starbucks.com/assets/ba003714b7494e948af043d5f0664669.png',
                             'subtitle': 'This coffee gets its distinctive sweetness from the way it is roasted: dark, and darker still. Somewhere beyond the caramel notes of our Espresso Roast but short of the smokiness that identifies our French Roast – that is the sweet spot held by Italian Roast.',
                             'buttons': [
                                 {
                                     'type': 'web_url',
-                                    'url': 'http://globalassets.starbucks.com/assets/ba003714b7494e948af043d5f0664669.png',
+                                    'url': 'http://www.starbucks.in/coffee/dark/fair-trade-certified-italian-roast/whole-bean',
                                     'title': 'View Coffee'
                                 },
                                 {
                                     'type': 'web_url',
-                                    'url': 'http://globalassets.starbucks.com/assets/ba003714b7494e948af043d5f0664669.png',
+                                    'url': 'http://www.starbucks.in/coffee/dark/fair-trade-certified-italian-roast/whole-bean',
                                     'title': 'Order Coffee'
                                 },
                                 {
