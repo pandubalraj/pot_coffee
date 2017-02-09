@@ -143,7 +143,7 @@ controller.setupWebserver(process.env.PORT || 3000, function(err, webserver) {
 });
 
 controller.api.thread_settings.greeting('Hello! I\'m a StarBucks bot!');
-// controller.api.thread_settings.get_started('sample_get_started_payload');
+controller.api.thread_settings.get_started('sample_get_started_payload');
 // controller.api.thread_settings.menu([
 //     {
 //         "type":"postback",
